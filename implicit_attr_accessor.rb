@@ -11,7 +11,7 @@ class AttrdObject
   end
 end
 
-attrd_object = AttrObject.new
+attrd_object = AttrdObject.new
 
 attrd_object.foo # NoMethodError
 
